@@ -43,14 +43,15 @@ dumb = [
 ]
 
 # Запускаем адский цирк
-while True:
-    print("\033[1;1H", end="")  # в левый верхний угол
-    for line in antimantra:
-        print(lol(line.center(100)))
-        time.sleep(0.15)
-    print(lol(random.choice(dumb).center(100)))
-    print("\a", end="", flush=True)  # бип!
-    time.sleep(0.3)
+try:
+    while True:
+        print("\033[1;1H", end="")  # в левый верхний угол
+        for line in antimantra:
+            print(lol(line.center(100)))
+            time.sleep(0.15)
+        print(lol(random.choice(dumb).center(100)))
+        print("\a", end="", flush=True)  # бип!
+        time.sleep(0.3)
 
 # На случай, если кто-то выживет
 except KeyboardInterrupt:
