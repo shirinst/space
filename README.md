@@ -12,7 +12,7 @@ space.py = 0 байт — это не баг и не лень. Это этало
 
 По сути это современный наследник знаменитых проектов:
 
-https://github.com/enterprise/helloworld (2008) — 1 КБ
+[helloworld (2008)](https://github.com/Aniket965/Hello-world/tree/master) — 1 КБ
 
 https://github.com/samsquire/zero-byte-programming (2021)
 
