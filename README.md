@@ -14,7 +14,7 @@ space.py = 0 байт — это не баг и не лень. Это этало
 
 [helloworld (2008)](https://github.com/Aniket965/Hello-world/tree/master) — 1 КБ
 
-https://github.com/samsquire/zero-byte-programming (2021)
+[zero-byte-programming (2021)](https://habr.com/ru/companies/cloud4y/articles/904084/)
 
 Самый короткий Docker-образ в мире (scratch, 0 байт)
 
